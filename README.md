@@ -10,7 +10,7 @@
 
     ```
     $: rails --version
-Rails 7.1.3.2
+    Rails 7.1.3.2
     ```
 
 * Additional Gems
